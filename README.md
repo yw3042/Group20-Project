@@ -1,1 +1,2 @@
-# Group20-Project
+# AdvancedDataAnalysisGroupProject
+Columbia University - Advanced Data Analysis - Group 20
